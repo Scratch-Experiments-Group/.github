@@ -14,6 +14,8 @@
 
 This group/organisation is about experiments for the Scratch API.
 
+The main repo: [Link](https://github.com/yoann256/scratchapi-experiments?tab=readme-ov-file#scratchapi-experiments)
+
 ## Jobs
 You can get a job in this group/organisation at any time. Just contact yoanndegardin03@gmail.com to see available jobs.
 
